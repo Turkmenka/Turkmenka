@@ -1,5 +1,6 @@
-### Hi , I'm Leyli Amangeldiyeva <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3BvYW5nbjMxb2Jhd3VkczA0ZXhpM3IyaXd5Mm9hNjBwcXpybjBzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtjqdcQfuno2WPK/giphy.gif" width:"30px">
-
+### Hi , I'm Leyli Amangeldiyeva 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3BvYW5nbjMxb2Jhd3VkczA0ZXhpM3IyaXd5Mm9hNjBwcXpybjBzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtjqdcQfuno2WPK/giphy.gif" width:"30px">
+Zamonaviy va responsiv web-saytlar yaratishga ixtisoslashgan Frontend Developer. <br/> HTML, CSS, SASS, Tailwind, Bootstrap texnologiyalarida mustahkam ko‘nikmaga egaman. Figma dizaynlarini pixel-perfect ko‘rinishda kodinga aylantira olaman. Chiroyli UI yaratish, yangi texnologiyalar o‘rganish va sifatli ish qilishdan zavqlanaman. Maqsadim — kuchli portfolioga ega bo‘lgan senior frontend dasturchi bo‘lish.
 <!--
 **Turkmenka/Turkmenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
