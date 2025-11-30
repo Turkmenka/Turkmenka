@@ -17,3 +17,12 @@ Maqsadim — kuchli portfolioga ega bo‘lgan senior frontend dasturchi bo‘lis
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="100px"> </code>
 <code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="100px"> </code>
 <code> <img src="https://static.vecteezy.com/system/resources/thumbnails/065/386/871/small_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width="100px"> </code>
+<br/>
+<br/>
+
+🛠️ Nimalar Yarataman?
+   🌐 Landing pagelar
+   📱 To‘liq responsive web-saytlar
+   🧩 Figma’dan to‘liq front-endga o‘tkazilgan dizaynlar
+   🎨 Elegant & modern UI
+   ⚡ Tez, optimallashgan front-end kod
