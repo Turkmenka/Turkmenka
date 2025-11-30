@@ -20,9 +20,9 @@ Maqsadim — kuchli portfolioga ega bo‘lgan senior frontend dasturchi bo‘lis
 <br/>
 <br/>
 
-🛠️ Nimalar Yarataman?
-   🌐 Landing pagelar
-   📱 To‘liq responsive web-saytlar
-   🧩 Figma’dan to‘liq front-endga o‘tkazilgan dizaynlar
-   🎨 Elegant & modern UI
-   ⚡ Tez, optimallashgan front-end kod
+🛠️ Nimalar Yarataman? <br/>
+   🌐 Landing pagelar <br/>
+   📱 To‘liq responsive web-saytlar <br/>
+   🧩 Figma’dan to‘liq front-endga o‘tkazilgan dizaynlar <br/>
+   🎨 Elegant & modern UI <br/>
+   ⚡ Tez, optimallashgan front-end kod <br/>
