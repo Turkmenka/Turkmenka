@@ -10,4 +10,4 @@ Maqsadim — kuchli portfolioga ega bo‘lgan senior frontend dasturchi bo‘lis
  
 </a>
 
-<code> <img src="https://e7.pngegg.com/pngimages/113/458/png-clipart-javascript-logo-comment-html-markup-language-analitycs-angle-text-thumbnail.png" width="150px"> </code>
+<code> <img src="https://e7.pngegg.com/pngimages/273/754/png-clipart-html-logo-world-wide-web-consortium-coding-angle-text-thumbnail.png" width="150px"> </code>
