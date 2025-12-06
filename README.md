@@ -1,4 +1,5 @@
-<h1 align="center">Salom, men Leyli 👋</h1> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkybnBleXBzYzlvanZ6enM0YnZjNWtsMGl4d2FlNTV0OTNvaGk2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtjqdcQfuno2WPK/giphy.gif" width="80px">
+<h1 align="center">Salom, men Leyli 👋</h1> 
+
 <p align="center">
   <b>Front-End Developer | Responsive Website Creator | Freelancer</b>
 </p>
@@ -70,3 +71,4 @@
 
 ---
 💙 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkybnBleXBzYzlvanZ6enM0YnZjNWtsMGl4d2FlNTV0OTNvaGk2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtjqdcQfuno2WPK/giphy.gif" width="80px">
