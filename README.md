@@ -57,9 +57,8 @@
 
 - 📧 Email: leyliamangeldiyeva2005@gmail.com
 - 💼 Telegram: @prinses_58
-- 📂 Telegram Portifolio: <a href="t.me/Leyli_Portifolio">Leyli_Portifolio</a>
+- 📂 Telegram Portifolio: t.me/Leyli_Portifolio
 - 📸 Instagram: @princessl_1412
 
 ---
-💙 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkybnBleXBzYzlvanZ6enM0YnZjNWtsMGl4d2FlNTV0OTNvaGk2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtjqdcQfuno2WPK/giphy.gif" width="80px">
