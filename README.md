@@ -27,7 +27,7 @@
 
 ### 🌐 1. Portfolio Website  
 **Responsive personal portfolio**  
-🔗 Live Demo: <a href=" https://turkmenka.github.io/Le-Bonir/">Le-Bonir</a>  
+🔗 Live Demo: <a href="https://turkmenka.github.io/Le-Bonir/">Le-Bonir</a>  
 🔗 Code: <a href="https://github.com/Turkmenka/Le-Bonir.git">Github</a>
 
 ---
@@ -41,14 +41,14 @@
 
 ### 🌐 3. Restaurant Landing Page  
 **Modern restaurant website**  
-🔗 Live Demo:  <a href="https://turkmenka.github.io/Tailwind-css/">Urben Bella</a> <br>
+🔗 Live Demo:  <a href="https://turkmenka.github.io/Tailwind-css/">АРОМАТЫ ДЛЯ ДОМА</a> <br>
 🔗 Code: <a href="https://github.com/Turkmenka/Tailwind-css.git">Github</a>
 
 ---
 
 ### 🌐 4. Bookstore Website
 **Bookstore for girls**  
-🔗 Live Demo:  <a href=" https://turkmenka.github.io/Laluna/">Urben Bella</a> <br>
+🔗 Live Demo:  <a href="https://turkmenka.github.io/Laluna/">Laluna</a> <br>
 🔗 Code: <a href="https://github.com/Turkmenka/Laluna.git">Github</a>
 
 ---
