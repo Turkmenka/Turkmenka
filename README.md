@@ -1,5 +1,5 @@
 <h1 align="center">Salom, men Leyli 👋</h1> 
-
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkybnBleXBzYzlvanZ6enM0YnZjNWtsMGl4d2FlNTV0OTNvaGk2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtjqdcQfuno2WPK/giphy.gif" width="80px">
 <p align="center">
   <b>Front-End Developer | Responsive Website Creator | Freelancer</b>
 </p>
@@ -23,53 +23,33 @@
 
 ---
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkybnBleXBzYzlvanZ6enM0YnZjNWtsMGl4d2FlNTV0OTNvaGk2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtjqdcQfuno2WPK/giphy.gif" width="80px">
-
-
-
-<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="50px"> </code>
-<code> <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="50px"> </code>
-<code> <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="50px"> </code>
-<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" width="50px"> </code>
-<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" width="50px"> </code>
-<code> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="50px"> </code>
-<code> <img src="https://static.vecteezy.com/system/resources/thumbnails/065/386/871/small_2x/figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width="50px"> </code>
-
-
-
-
-
 ## 📂 Portfolio loyihalarim
 
 ### 🌐 1. Portfolio Website  
 **Responsive personal portfolio**  
-🔗 Live Demo: (shu yerga link qo'yasan)  
-🔗 Code: Repo ichida
+🔗 Live Demo: <a href=" https://turkmenka.github.io/Le-Bonir/">Le-Bonir</a>  
+🔗 Code: <a href="https://github.com/Turkmenka/Le-Bonir.git">Github</a>
 
 ---
 
-### 🛍 2. E-commerce UI Website  
+### 🌐 2. E-commerce UI Website  
 **Chiroyli, zamonaviy, responsive online shop dizayni**  
-🔗 Live Demo:  
-🔗 Code:
+🔗 Live Demo:  <a href="https://turkmenka.github.io/Urben-Bella/">Urben Bella</a> 
+🔗 Code: <a href="https://github.com/Turkmenka/Urben-Bella.git">Github</a>
 
 ---
 
-### 🍽 3. Restaurant Landing Page  
-**Modern restaurant one-page website**  
-🔗 Live Demo:  
-🔗 Code:
+### 🌐 3. Restaurant Landing Page  
+**Modern restaurant website**  
+🔗 Live Demo:  <a href="https://turkmenka.github.io/Tailwind-css/">Urben Bella</a> 
+🔗 Code: <a href="https://github.com/Turkmenka/Tailwind-css.git">Github</a>
 
 ---
 
-### ✈️ 4. Travel Agency Website  
-**Tour & travel kompaniyasi uchun landing**  
-🔗 Live Demo:  
-🔗 Code:
-
----
-
-*(Agar xohlasang — 9 ta saytingdan TOP 4 tasini ajratib, shu bo‘limga joylab beraman.)*
+### 🌐 4. Bookstore Website
+**Bookstore for girls**  
+🔗 Live Demo:  <a href=" https://turkmenka.github.io/Laluna/">Urben Bella</a> 
+🔗 Code: <a href="https://github.com/Turkmenka/Laluna.git">Github</a>
 
 ---
 
@@ -84,9 +64,10 @@
 
 ## 📬 Aloqa
 
-- 📧 Email: leyli.freelance@example.com *(xohlasang o‘zgartiraman)*
-- 💼 Telegram: @yourusername *(agar link bersang qo‘shib beraman)*
+- 📧 Email: leyliamangeldiyeva2005@gmail.com
+- 💼 Telegram: @prinses_58
+- 📂 Telegram Portifolio: <a href="t.me/Leyli_Portifolio">Leyli_Portifolio</a>
+- 📸 Instagram: @princessl_1412
 
 ---
-
-💙 **"Har kuni bitta yangi website — 1 oyda professional portfolioga ega bo‘lasan."**
+💙 
