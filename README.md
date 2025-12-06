@@ -34,31 +34,22 @@
 
 ### 🌐 2. E-commerce UI Website  
 **Chiroyli, zamonaviy, responsive online shop dizayni**  
-🔗 Live Demo:  <a href="https://turkmenka.github.io/Urben-Bella/">Urben Bella</a> 
+🔗 Live Demo:  <a href="https://turkmenka.github.io/Urben-Bella/">Urben Bella</a> <br>
 🔗 Code: <a href="https://github.com/Turkmenka/Urben-Bella.git">Github</a>
 
 ---
 
 ### 🌐 3. Restaurant Landing Page  
 **Modern restaurant website**  
-🔗 Live Demo:  <a href="https://turkmenka.github.io/Tailwind-css/">Urben Bella</a> 
+🔗 Live Demo:  <a href="https://turkmenka.github.io/Tailwind-css/">Urben Bella</a> <br>
 🔗 Code: <a href="https://github.com/Turkmenka/Tailwind-css.git">Github</a>
 
 ---
 
 ### 🌐 4. Bookstore Website
 **Bookstore for girls**  
-🔗 Live Demo:  <a href=" https://turkmenka.github.io/Laluna/">Urben Bella</a> 
+🔗 Live Demo:  <a href=" https://turkmenka.github.io/Laluna/">Urben Bella</a> <br>
 🔗 Code: <a href="https://github.com/Turkmenka/Laluna.git">Github</a>
-
----
-
-## 📊 GitHub Statistikam
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Turkmenka_Leyli&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turkmenka_Leyli&layout=compact" height="150" />
-</p>
 
 ---
 
