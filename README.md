@@ -25,7 +25,7 @@
 
 ## 📂 Portfolio loyihalarim
 
-### Portfolio web: <a href="https://turkmenka.github.io/Le-Bonir/">Le-Bonir</a>  
+### Portfolio web: <a href="https://turkmenka.github.io/Leyli-Portfolio/">Leyli-Portfolio</a>  
 
 ### 🌐 1. Portfolio Website  
 **Responsive personal portfolio**  
