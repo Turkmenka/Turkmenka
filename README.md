@@ -1,4 +1,4 @@
-<h1 align="center">Salom, men Leyli 👋</h1> 
+<img width="736" height="1308" alt="image" src="https://github.com/user-attachments/assets/0fe6489e-a2d9-4264-8d28-0f0f8eac02e8" /><h1 align="center">Salom, men Leyli 👋</h1> 
 
 <p align="center">
   <b>Front-End Developer | Responsive Website Creator | Freelancer</b>
@@ -63,4 +63,4 @@
 - 📸 Instagram: @princessl_1412
 
 ---
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkybnBleXBzYzlvanZ6enM0YnZjNWtsMGl4d2FlNTV0OTNvaGk2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtjqdcQfuno2WPK/giphy.gif" width="80px">
+<img src="https://i.pinimg.com/736x/81/03/a6/8103a6a80c97790ffe477618ab1c3fdf.jpg" width="200px">
