@@ -63,4 +63,4 @@
 - 📸 Instagram: @princessl_1412
 
 ---
-<img src="https://i.pinimg.com/736x/81/03/a6/8103a6a80c97790ffe477618ab1c3fdf.jpg" width="200px">
+<img src="https://i.pinimg.com/736x/81/03/a6/8103a6a80c97790ffe477618ab1c3fdf.jpg" width="80px">
