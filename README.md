@@ -1,4 +1,5 @@
-<img width="736" height="1308" alt="image" src="https://github.com/user-attachments/assets/0fe6489e-a2d9-4264-8d28-0f0f8eac02e8" /><h1 align="center">Salom, men Leyli 👋</h1> 
+
+<h1 align="center">Salom, men Leyli 👋</h1> 
 
 <p align="center">
   <b>Front-End Developer | Responsive Website Creator | Freelancer</b>
