@@ -19,7 +19,7 @@
 ## 🛠 Texnologiyalar
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,vite,git,github,figma,vscode,blender" />
 </p>
 
 ---
@@ -42,14 +42,7 @@
 
 ---
 
-### 🌐 3. Restaurant Landing Page  
-**Modern restaurant website**  
-🔗 Live Demo:  <a href="https://turkmenka.github.io/Tailwind-css/">АРОМАТЫ ДЛЯ ДОМА</a> <br>
-🔗 Code: <a href="https://github.com/Turkmenka/Tailwind-css.git">Github</a>
-
----
-
-### 🌐 4. Bookstore Website
+### 🌐 3. Bookstore Website
 **Bookstore for girls**  
 🔗 Live Demo:  <a href="https://turkmenka.github.io/Laluna/">Laluna</a> <br>
 🔗 Code: <a href="https://github.com/Turkmenka/Laluna.git">Github</a>
