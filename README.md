@@ -49,6 +49,13 @@
 
 ---
 
+### 🌐 4. Liliana Morgan Website
+**Qizlar uchun**  
+🔗 Live Demo:  <a href="https://turkmenka.github.io/Liliana-Morgan/">Liliana Morgan</a> <br>
+🔗 Code: <a href="https://github.com/Turkmenka/Liliana-Morgan">Github</a>
+
+---
+
 ## 📬 Aloqa
 
 - 📧 Email: leyliamangeldiyeva2005@gmail.com
