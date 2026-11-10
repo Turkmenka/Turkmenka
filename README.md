@@ -2,7 +2,7 @@
 <h1 align="center">Salom, men Leyli 👋</h1> 
 
 <p align="center">
-  <b>Front-End Developer | Responsive Website Creator | Freelancer</b>
+  <b>Front-End Developer | Responsive Website Creator | Figma to Html</b>
 </p>
 
 ---
